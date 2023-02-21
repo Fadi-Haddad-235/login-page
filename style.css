@@ -5,3 +5,6 @@ height: 100vh;
 .d-flex .justify-content-around{
     padding: 1px;
 }
+#sign-up-text{
+    font-size: 25px;
+}
