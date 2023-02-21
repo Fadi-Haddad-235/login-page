@@ -8,3 +8,6 @@ height: 100vh;
 #sign-up-text{
     font-size: 25px;
 }
+body{
+    background-color: #3E54AC !important;
+}
